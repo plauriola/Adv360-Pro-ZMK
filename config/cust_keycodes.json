@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"LC(LA(PAUSE_BREAK))"
+		],
+		"description": "LC(LA(PAUSE_BREAK))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
